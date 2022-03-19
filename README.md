@@ -20,4 +20,4 @@ In my analysis, I calculate the number of listing for each host in NYC.The major
 * If we calculate with respect to neighbourhood we can see that only two of the top 15 locations have listing for shared room, Arverne neighbourhood in Queens with 'Share room' roomtype as the highest.
 * Overall Arverne, staten island  has the highest traffic.
 * The most busiest host is michael.Because he is listed more 414 times.
-* We can conclude that throughout NewYork city there is a larger preference towards Entire apt as compared to private or shared rooms irrespective to the prices hence the Traffic there are most and busiest host is 'michael'.
+* We can conclude that throughout NewYork city there is a larger preference towards Entire apt as compared to private or shared rooms irrespective to the prices hence the Traffic there are most and busiest host is 'michael'
